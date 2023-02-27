@@ -16,5 +16,5 @@ The tutorial targets both academic scholars as well as practitioners around the 
 ## Organization
 
 * Markus Schedl, Johannes Kepler University
-* Emilia Gomez, Pompeu Fabra University
+* Emilia Gomez, Universitat Pompeu Fabra & Joint Research Centre, European Commission
 * Elisabeth Lex, Graz University of Technology
