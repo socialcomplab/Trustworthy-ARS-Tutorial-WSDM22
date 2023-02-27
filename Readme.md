@@ -11,7 +11,7 @@ The tutorial targets both academic scholars as well as practitioners around the 
 ## Tutorial Materials
 
 * [WSDM 2023 Tutorial Slides](WSDM2023_TARS.pdf)
-* [WSDM 2023 Proceedings Paper]()
+* [WSDM 2023 Proceedings Paper](WSDM_2023_Tutorial__Trustworthy_Algorithmic_Ranking_Systems.pdf)
 
 ## Organization
 
