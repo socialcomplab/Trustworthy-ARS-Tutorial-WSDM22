@@ -1,20 +1,15 @@
-This repository contains all the material supporting the tutorial "Trustworthy Algorithmic Ranking Systems"
+This repository contains all the material supporting the tutorial "Psychological Aspects in Retrieval and Recommendation"
 ## Abstract
 
-This tutorial aims at providing its audience an interdisciplinary overview about the topics of fairness and non-discrimination, diversity, and transparency as the main dimensions of trustworthy AI systems, tailored to algorithmic ranking systems such as search engines and recommender systems.
-We will equip the mostly technical audience of WSDM with the necessary understanding of the ethical implications of their research and development on the one hand, and of recent political and legal regulations that address the aforementioned dimensions on the other hand. 
-
-While the tutorial foremost takes a European perspective, because EU regulation is at the forefront of elaborating guidelines for ethical and trustworthy AI, we also review initiatives outside of Europe, in particular in the US and China.
-
-The tutorial targets both academic scholars as well as practitioners around the globe, by reviewing recent research and providing practical examples addressing one or more of the trustworthiness aspects, and showcasing how new regulations affect the audience's daily work.
+Information retrieval (IR) and recommender systems (RS) affect many aspects of our daily lives, influencing which content we are exposed to on the web or social media platforms, which products we buy, or which music we listen to.
+At the same time, psychological processes play a critical role in shaping users' interactions with IR and RS. Therefore, understanding human cognition, decision-making processes, and psychological factors such as personality and emotion is vital to enable user-centric retrieval and recommendation systems. Vice versa, understanding whether these aspects are also present to some extent in the systems themselves (e.g., in training data, ranking models, or outputs), or even integrating them in the systems on purpose, can inform the development of psychology-inspired systems. Against this background, the tutorial focuses on three key psychological topics and sheds light on how they influence and manifest in the IR and RS ecosystem: cognitive architectures, cognitive effects and biases, and personality and affect.
 
 ## Tutorial Materials
 
-* [WSDM 2023 Tutorial Slides](WSDM2023_TARS.pdf)
-* [WSDM 2023 Proceedings Paper](WSDM_2023_Tutorial__Trustworthy_Algorithmic_Ranking_Systems.pdf)
+* [SIGIR 2025 Tutorial Slides](SIGIR 2025_ Tutorial on Psychological Aspects in Retrieval and Recommendation.pdf)
 
 ## Organization
 
 * Markus Schedl, Johannes Kepler University
-* Emilia Gomez, Universitat Pompeu Fabra & Joint Research Centre, European Commission
+* Marko Tkalcic, University of Koper
 * Elisabeth Lex, Graz University of Technology
